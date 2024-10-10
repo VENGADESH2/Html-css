@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #96bbe0;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+table {
+    margin-top: 20px;
+}
+
+tfoot th {
+    font-weight: bold;
+}
